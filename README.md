@@ -8,7 +8,7 @@ We summarize the method of this study, including method codes and input files.
 R version 4.0.2
 
 ### Random forest
-Random forest was used to calculate mean decrease accuracy and mean decrease Gini to measure the importance of each mRNA for liver cancer recurrence.The “randomForest” package in R software was used in this analisis.
+Random forest was used to calculate mean decrease accuracy and mean decrease Gini to measure the importance of each mRNA for liver cancer recurrence.The “randomForest” package in R software was used in this analysis.
 
 ### Logistic regression
 To construct a risk scoring model for liver cancer recurrence prediction, we developed risk scores using the logistic regression algorithm. The “glmnet” package in R software was used to build the models.
